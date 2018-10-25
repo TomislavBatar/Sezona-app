@@ -1,0 +1,2 @@
+# Sezona-app
+Sezona app
